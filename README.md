@@ -6,5 +6,6 @@ Functions, a simple calculator using functions.
 Input and output, classes and objects, exception handling.
 self attribute and file handling.
 OOPS inheritance, operator overloading and polymorphmism.
+Regular expression.
 
 
