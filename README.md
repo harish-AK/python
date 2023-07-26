@@ -11,5 +11,7 @@ json file handling.
 Numpy and pandas.
 matplotlib practice.
 mini projects 1. Hangman -guess a word using letters, user will enter a letter, if the word contains the letter, chances wont be reduced else chances will be reduced for each wrong input letter from user.
+tic tac toe with computer as one player.
+searching algorithms - linear and binary search algorithms. 
 
 
