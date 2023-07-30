@@ -15,6 +15,7 @@ tic tac toe with computer as one player.
 searching algorithms - linear and binary search algorithms. 
 Sorting algoriyhms- 1.Bubble sort 
 2. Selection sort - repeatedly find the small element and sor those in order.
+3. Insertion sort - compare 1st 2 elements then sort it, then 2nd and 3rd element are compareed to sort and so on.
 Solved problems in loops, list from W3resource.
 
 
