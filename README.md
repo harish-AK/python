@@ -10,12 +10,14 @@ Regular expression.
 json file handling.
 Numpy and pandas.
 matplotlib practice.
-mini projects 1. Hangman -guess a word using letters, user will enter a letter, if the word contains the letter, chances wont be reduced else chances will be reduced for each wrong input letter from user.
-tic tac toe with computer as one player.
+mini projects :
+1. Hangman -guess a word using letters, user will enter a letter, if the word contains the letter, chances wont be reduced else chances will be reduced for each wrong input letter from user.
+2.tic tac toe with computer as one player.
+3. Weather report- using openweather.com call the api for weather report according to user input and print it using pprint cause report will be in json format. 
 searching algorithms - linear and binary search algorithms. 
 Sorting algoriyhms- 1.Bubble sort 
-2. Selection sort - repeatedly find the small element and sor those in order.
-3. Insertion sort - compare 1st 2 elements then sort it, then 2nd and 3rd element are compareed to sort and so on.
+3. Selection sort - repeatedly find the small element and sor those in order.
+4. Insertion sort - compare 1st 2 elements then sort it, then 2nd and 3rd element are compareed to sort and so on.
 Solved problems in loops, list from W3resource.
 
 
