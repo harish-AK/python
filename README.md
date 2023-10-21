@@ -27,14 +27,13 @@ mini projects :
 2.tic tac toe with computer as one player.
 
 3. Weather report- using openweather.com call the api for weather report according to user input and print it using pprint cause report will be in json format.
-   
-4. Slot machine process.
-  
-5. Slot machine - get deposit from user prompt the user to bet on slots if the user makes profit, amount will be updated in balance.
+     
+4. Slot machine - get deposit from user, prompt the user to bet on slots if the user makes profit, amount will be updated in balance.
 
 searching algorithms - linear and binary search algorithms. 
 
-Sorting algoriyhms- 
+Sorting algorithms- 
+
   1.Bubble sort 
   
   2. Selection sort - repeatedly find the small element and sor those in order.
