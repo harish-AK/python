@@ -33,6 +33,7 @@ mini projects :
 searching algorithms - linear and binary search algorithms. 
 
 Sorting algorithms- 
+
 1.Bubble sort 
   
 2. Selection sort - repeatedly find the small element and sort those in order.
