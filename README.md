@@ -33,11 +33,10 @@ mini projects :
 searching algorithms - linear and binary search algorithms. 
 
 Sorting algorithms- 
-
-  1.Bubble sort 
+1.Bubble sort 
   
-  2. Selection sort - repeatedly find the small element and sort those in order.
+2. Selection sort - repeatedly find the small element and sort those in order.
    
-  4. Insertion sort - compare 1st 2 elements then sort it, then 2nd and 3rd element are compared to sort and so on. Solved problems in loops, list from W3resource.
+3. Insertion sort - compare 1st 2 elements then sort it, then 2nd and 3rd element are compared to sort and so on. Solved problems in loops and list from W3resource.
 
 
