@@ -29,15 +29,3 @@ mini projects :
 3. Weather report- using openweather.com call the api for weather report according to user input and print it using pprint cause report will be in json format.
      
 4. Slot machine - get deposit from user, prompt the user to bet on slots if the user makes profit, amount will be updated in balance.
-
-searching algorithms - linear and binary search algorithms. 
-
-Sorting algorithms- 
-
-1.Bubble sort 
-  
-2. Selection sort - repeatedly find the small element and sort those in order.
-   
-3. Insertion sort - compare 1st 2 elements then sort it, then 2nd and 3rd element are compared to sort and so on. Solved problems in loops and list from W3resource.
-
-
