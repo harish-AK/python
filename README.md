@@ -20,12 +20,3 @@ json file handling.
 Numpy and pandas.
 
 matplotlib practice.
-
-mini projects :
-1. Hangman -guess a word using letters, user will enter a letter, if letter is in the word, chances wont be reduced else chances will be reduced for each wrong input letter from user.
-
-2. tic tac toe with computer as one player.
-
-3. Weather report- using openweather.com call the api for weather report according to user input and print it using pprint cause report will be in json format.
-     
-4. Slot machine - get deposit from user, prompt the user to bet on slots if the user makes profit, amount will be updated in balance.
