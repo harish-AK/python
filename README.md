@@ -1,22 +1,22 @@
 # python
-Basics of python-data types, list, tuple, variables.
+1.Basics of python-data types, list, tuple, variables.
 
-Operation like conditional statements, dictionary, operators
+2.Conditional statements, dictionary, operators
 
-Loops - for and while loop.
+3.Loops - for and while loop.
 
-Functions, a simple calculator using functions.
+4.Functions, a simple calculator using functions.
 
-Input and output, classes and objects, exception handling.
+5.Input and output, classes and objects, exception handling.
 
-self attribute and file handling.
+6.File handling.
 
-OOPS inheritance, operator overloading and polymorphmism.
+7.OOPS inheritance, operator overloading and polymorphmism.
 
-Regular expression.
+8.Regular expression.
 
-json file handling.
+9.json file handling.
 
-Numpy and pandas.
+10.Numpy and pandas.
 
-matplotlib practice.
+11.matplotlib practice.
